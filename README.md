@@ -35,17 +35,7 @@ Este é um simples jogo de Jokenpô desenvolvido em Flutter, utilizando a plataf
   |-- README.md  # Documentação do projeto
 ```
 
-## Capturas de Tela
-(Adicione capturas de tela do app se possível)
-
-## Melhorias Futuras
-- Adicionar animações e efeitos visuais.
-- Implementar placar de vitórias e derrotas.
-- Permitir jogo contra outro jogador online.
-
 ## Autor
-- **[Seu Nome]** - Desenvolvedor Flutter
+- Gabriel Storti Segalla
 
-## Licença
-Este projeto está licenciado sob a [MIT License](https://opensource.org/licenses/MIT).
 
