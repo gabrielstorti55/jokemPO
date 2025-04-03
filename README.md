@@ -1,19 +1,51 @@
-# JokenPo
+# Jokenpô 
 
-A new Flutter project created with FlutLab - https://flutlab.io
+Este é um simples jogo de Jokenpô desenvolvido em Flutter, utilizando a plataforma FlutLab(https://flutlab.io/).
 
-## Getting Started
+## Recursos
+- Escolha entre Pedra, Papel ou Tesoura.
+- O app compara sua escolha com a do computador.
+- Exibe o resultado da rodada (Vitória, Derrota ou Empate).
+- Interface amigável e responsiva.
 
-A few resources to get you started if this is your first Flutter project:
+## Tecnologias Utilizadas
+- **Flutter**: Framework para desenvolvimento mobile multiplataforma.
+- **Dart**: Linguagem de programação utilizada pelo Flutter.
 
-- https://flutter.dev/docs/get-started/codelab
-- https://flutter.dev/docs/cookbook
+## Como Executar o Projeto
 
-For help getting started with Flutter, view our
-https://flutter.dev/docs, which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Acesse o FlutLab(https://flutlab.io/) e abra o projeto.
+2. Clique no botão **Run** para compilar e executar o aplicativo.
+3. Teste o jogo escolhendo uma das opções e veja o resultado!
 
-## Getting Started: FlutLab - Flutter Online IDE
+## Estrutura do Projeto
+```
+/jokenpo
+  |-- android/  # Diretório para código nativo Android
+  |-- ios/  # Diretório para código nativo iOS
+  |-- imagens/  # Pasta com imagens usadas no app
+  |-- lib/
+      |-- jogo.dart  # Lógica do jogo
+      |-- main.dart  # Arquivo principal do app
+  |-- test/  # Testes automatizados
+  |-- web/  # Configurações e dependências para execução web
+      |-- .metadata
+      |-- analysis_options.yaml
+      |-- pubspec.yaml  # Arquivo de dependências do Flutter
+  |-- README.md  # Documentação do projeto
+```
 
-- How to use FlutLab? Please, view our https://flutlab.io/docs
-- Join the discussion and conversation on https://flutlab.io/residents
+## Capturas de Tela
+(Adicione capturas de tela do app se possível)
+
+## Melhorias Futuras
+- Adicionar animações e efeitos visuais.
+- Implementar placar de vitórias e derrotas.
+- Permitir jogo contra outro jogador online.
+
+## Autor
+- **[Seu Nome]** - Desenvolvedor Flutter
+
+## Licença
+Este projeto está licenciado sob a [MIT License](https://opensource.org/licenses/MIT).
+
